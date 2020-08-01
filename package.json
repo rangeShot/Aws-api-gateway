@@ -14,7 +14,7 @@
     "serverless-python-requirements": "^5.0.0"
   },
   "devDependencies": {
-    "aws-lambda": "^0.1.2",
+    "aws-lambda": "^1.0.5",
     "aws-sdk": "^2.691.0",
     "serverless-offline": "^5.12.1",
     "serverless-offline-scheduler": "^0.4.0",
